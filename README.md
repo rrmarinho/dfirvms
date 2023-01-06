@@ -11,7 +11,7 @@ Digital Forensics and Incident Response
 
   - [**Preparação da VM SANS SIFT Workstation**](https://github.com/rrmarinho/dfirvms/edit/main/README.md#4-prepara%C3%A7%C3%A3o-vm-sift-workstation): distribuição Linux com ferramentas pré-instaladas voltadas para análises forense mantida pela SANS;
   
-  - [**Download de artefatos para análise**](https://github.com/rrmarinho/dfirvms/edit/main/README.md#5-download-de-artefatos): imagens de disco, memória e tráfego de rede que  serão utilizados nas análises.
+  - [**Download de artefatos para análise**](https://github.com/rrmarinho/dfirvms/blob/main/README.md#5-download-de-artefatos): imagens de disco, memória e tráfego de rede que  serão utilizados nas análises.
 
 ### 2. Pré-requisitos:  
 
