@@ -100,9 +100,9 @@ Digital Forensics and Incident Response
 
       - Ao final, reinicie a VM Windows.
       
-7. Faça o download do pacote de ferramentas que utilizaremos no curso:
+7. Faça o download do pacote de ferramentas que utilizaremos na VM Windows:
 
-    - https://drive.google.com/file/d/1BrY2BdHd0ukEPNFE8CZMnxDD0iouRklp/view?usp=share_link
+    - [Download do pacote Tools.zip](https://mega.nz/file/nvp12bIS#dar_C6JTu-R6OXq5rZcNKFvMpvJkdRGXYrMVfkGFuwc)
 
     - Este pacote tem aproximadamente 5.5GB compactados.
 
