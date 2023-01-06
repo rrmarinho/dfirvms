@@ -7,7 +7,7 @@ Digital Forensics and Incident Response
   
   - [**Pré-requisitos**](https://github.com/rrmarinho/dfirvms/blob/main/README.md#2-pr%C3%A9-requisitos): detalhamento de requisitos de software e hardware;
   
-  - [**Preparação da VM Windows 10 Workstation**](https://github.com/rrmarinho/dfirvms/edit/main/README.md#3-prepara%C3%A7%C3%A3o-vm-windows-10): Licença de avaliação fornecida pela Microsoft com validade de 90 dias;
+  - [**Preparação da VM Windows 10 Workstation**](https://github.com/rrmarinho/dfirvms/blob/main/README.md#3-prepara%C3%A7%C3%A3o-da-vm-windows-10): Licença de avaliação fornecida pela Microsoft com validade de 90 dias;
 
   - [**Preparação da VM SANS SIFT Workstation**](https://github.com/rrmarinho/dfirvms/edit/main/README.md#4-prepara%C3%A7%C3%A3o-vm-sift-workstation): distribuição Linux com ferramentas pré-instaladas voltadas para análises forense mantida pela SANS;
   
