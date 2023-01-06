@@ -10,6 +10,8 @@ Digital Forensics and Incident Response
   - [**Preparação da VM Windows 10 Workstation**](https://github.com/rrmarinho/dfirvms/edit/main/README.md#3-prepara%C3%A7%C3%A3o-vm-windows-10): Licença de avaliação fornecida pela Microsoft com validade de 90 dias;
 
   - [**Preparação da VM SANS SIFT Workstation**](https://github.com/rrmarinho/dfirvms/edit/main/README.md#4-prepara%C3%A7%C3%A3o-vm-sift-workstation): distribuição Linux com ferramentas pré-instaladas voltadas para análises forense mantida pela SANS;
+  
+  - [**Download de artefatos para análise**](): imagens de disco, memória e tráfego de rede que  serão utilizados nas análises.
 
 ### 2. Pré-requisitos:  
 
@@ -189,7 +191,13 @@ Digital Forensics and Incident Response
 4. A VM SIFT Workstation está pronta. Você pode desliga-la ou suspendê-la.
 
 
+### 5. Download de artefatos
 
+Faça o download de um [arquivo ZIP contendo artefatos]() de disco, memória e tráfego de rede que serão utilzados nas análises. 
+
+Hash MD5 do arquivo: 15c9583fcf377481d4eb56d1e782e0b4
+
+OBS: O ZIP tem uma senha que será disponibilizada durante a aula. 
 
 
 
