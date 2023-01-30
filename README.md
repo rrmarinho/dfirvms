@@ -39,7 +39,7 @@ Digital Forensics and Incident Response
 
 <img src="https://user-images.githubusercontent.com/32780523/210851615-6b0dcf8f-5a85-4339-9ca4-359be1ad24a7.png" width=80% height=80%>
 
-1. Faça o download da VM Windows no site da Microsoft: https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+1. Faça o download da VM Windows no site da Microsoft: https://mega.nz/#P!AgFaInMQClH1Q_y_8lCvRQKcneDOMpSKmCFhv6tJ47x3AH1OZMyGDcPchBsv7nrzxlbUg4h8HXJiXuZs9ePwqE5yV-MM-9VZM1F-BN6zngO7KSKes9CI03hRcSwtz5jFiVt7-LEa_XE
 
     - Escolha a as opções:
       - MSEdge on Windows 10 (x64) Stable 1809
