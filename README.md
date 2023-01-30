@@ -23,19 +23,22 @@ Digital Forensics and Incident Response
 
 #### Software
 
- - VMware Workstation Pro
-    - Caso ainda não tenha o Vmware na sua estação de trabalho, você pode obter e instalar uma licença de avaliação válida por 30 dias em:
+Recomendamos a utilização do VMware Workstation Pro 14 (ou superior) ou VMware Fusion Pro 10 (ou superior) dependendo do sistema operacional Windows ou OS X, respectivamente. Ambos são versões comerciais. Caso o computador utilizado para as práticas do curso não possua a licença comercial do VMWare, é possível fazer o download de versões de avaliação por 30 dias. As versões Pro são necessárias uma vez que suportam a criação de snapshots - recurso essencial durante as práticas do curso.
 
-      - Download VMware Workstation Pro: https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+- VMware Workstation Pro
+ 
+- Download VMware Workstation Pro: https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
 
-      - O arquivo tem aproximadamente 600MB;
+- O arquivo tem aproximadamente 600MB;
 
-      - Não requer registro;
-      
-        <img src="https://user-images.githubusercontent.com/32780523/210852367-14caa99a-9799-44ed-8236-344037975fe5.png" width=50% height=50%>
+- Não requer registro;
 
+<img src="https://user-images.githubusercontent.com/32780523/210852367-14caa99a-9799-44ed-8236-344037975fe5.png" width=50% height=50%>
 
-### 3. Preparação da VM Windows 10
+***No entanto***, como a duração da licença é menor do que a duração do curso, deixamos o aluno a vontade para utilizar o sistema de virtualização que possa utilizar
+por todo o curso. A única observação é que o sistema de virtualização suporte a snapshots.
+
+ ### 3. Preparação da VM Windows 10
 
 <img src="https://user-images.githubusercontent.com/32780523/210851615-6b0dcf8f-5a85-4339-9ca4-359be1ad24a7.png" width=80% height=80%>
 
